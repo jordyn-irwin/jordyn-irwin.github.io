@@ -3,6 +3,10 @@ logo:  "images/profile.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Associate Data Engineer
   <br><br>
+  Salem, Oregon
+  <br><br>
+  <a href="mailto:jirwin003@gmail.com">Email</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/jordyn-irwin-b74756296/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
