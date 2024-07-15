@@ -3,7 +3,7 @@
 ---
 
 [Book Bans in the United States](sample_page)
-[image](https://github.com/user-attachments/assets/8828df2c-c2ac-4fa6-b60a-7a6c4e6f73bc)
+![image](https://github.com/user-attachments/assets/1fb07650-6f77-4d19-8a28-3174fa829828)
 
 ---
 [Olympic Swimming & Survival Analysis](/pdf/sample_presentation.pdf)
