@@ -2,7 +2,7 @@
 
 ---
 
-[Book Bans in the United States](sample_page)
+[Book Bans in the United States](pdf/FinalProject_AlainaHolland_JordynIrwin.pdf)
 ![image](https://github.com/user-attachments/assets/1fb07650-6f77-4d19-8a28-3174fa829828)
 
 ---
